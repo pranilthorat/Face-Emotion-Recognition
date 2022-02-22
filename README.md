@@ -1,5 +1,3 @@
-# Facial_emotion_capstone_project_final
-# description-for-last-project
 # Live Class Monitoring System(Face Emotion Recognition)
 ## Introduction
 
