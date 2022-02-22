@@ -40,7 +40,7 @@ I will solve the above-mentioned challenge by applying deep learning algorithms 
 ❖ https://medium.com/analytics-vidhya/building-a-real-time-emotion-detector-towards-machine-with-e-q-c20b17f89220
 
 ## Dataset link 
-https://www.kaggle.com/deadskull7/fer2013
+❖ https://www.kaggle.com/deadskull7/fer2013
 
 ## Dataset Information
 
