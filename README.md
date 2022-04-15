@@ -191,6 +191,10 @@ http://15.206.194.193:8501/
 * Using streamlit, a front-end model was successfully created and ran on a local webserver.The Streamlit web application has been deployed on Amazon's AWS cloud platform.
 * It was an amazing and fascinating project. This has taught me a lot.
 
+![image](https://user-images.githubusercontent.com/92014177/163598206-2340a97e-3526-42c0-be78-f44ee353c737.png)
+
+
+
 * Ppt Presentation:-https://drive.google.com/file/d/1lSIBkvRnB0oUNUkR2A_qvyjOtgmHq64o/view?usp=sharing
 * Video Presentation:-https://drive.google.com/file/d/1L_Uf6x8bCIHiGFdBMJn_9Ln8z6F0AvWt/view?usp=sharing
 * Local Webcam Test (Demo Video):-https://drive.google.com/file/d/1fax5Y7QeZiUgkVj-FREiMy7Sykq_w_Ll/view?usp=sharing
