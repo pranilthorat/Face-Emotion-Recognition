@@ -190,3 +190,7 @@ http://15.206.194.193:8501/
 * Since, the emotion counts of disgust and surprise images are less therefore on local webcam it hardly detect those emotions.
 * Using streamlit, a front-end model was successfully created and ran on a local webserver.The Streamlit web application has been deployed on Amazon's AWS cloud platform.
 * It was an amazing and fascinating project. This has taught me a lot.
+
+# Ppt Presentation:-https://drive.google.com/file/d/1lSIBkvRnB0oUNUkR2A_qvyjOtgmHq64o/view?usp=sharing
+# Video Presentation:-https://drive.google.com/file/d/1L_Uf6x8bCIHiGFdBMJn_9Ln8z6F0AvWt/view?usp=sharing
+# Local Webcam Test (Demo Video):-https://drive.google.com/file/d/1fax5Y7QeZiUgkVj-FREiMy7Sykq_w_Ll/view?usp=sharing
