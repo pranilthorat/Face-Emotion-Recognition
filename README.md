@@ -1,3 +1,4 @@
+<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 # Live Class Monitoring System(Face Emotion Recognition)
 ## Introduction
 
